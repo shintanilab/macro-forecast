@@ -1,8 +1,27 @@
 # **新谷元嗣・前橋昂平『Pythonによるマクロ経済予測入門』**
-## [朝倉書店](https://www.asakura.co.jp/detail.php?book_code=12901)
+### 朝倉書店ウェブサイトは[こちら](https://www.asakura.co.jp/detail.php?book_code=12901)
 
-Colab notebook: ch1.ipynb、ch2.ipynb、ch3.ipynb、ch4.ipynb、ch5.ipynb
+## 1. ARモデルの予測
+### Colab Notebook: ch1.ipynb
+### Python Script: ch1_script.py
+### data: data_1.xlsx
 
-Python script : ch1_script.py、ch2_script.py、ch3_script.py、ch4_script.py、ch5_script.py
+## 2. マクロ経済データの変換
+### Colab Notebook: ch2.ipynb
+### Python Script: ch2_script.py
+### data: data_2.xlsx
 
-data          : data_1.xlsx、data_2.xlsx、data_3.xlsx、data_4.xlsx、data_5.xlsx
+## 3. 予測モデルの選択
+### Colab Notebook: ch3.ipynb
+### Python Script: ch3_script.py
+### data: data_3.xlsx
+
+## 4. 動学因子モデルの予測
+### Colab Notebook: ch4.ipynb
+### Python Script: ch4_script.py
+### data: data_4.xlsx
+
+## 5. 機械学習の予測
+### Colab Notebook: ch5.ipynb
+### Python Script: ch5_script.py
+### data: data_5.xlsx、EWS
