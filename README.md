@@ -13,15 +13,15 @@
 
 ## 3. 予測モデルの選択
 ### Colab Notebook: [ch3.ipynb](https://github.com/shintanilab/macro-forecast/blob/main/ch3.ipynb)
-### Python Script: [ch3_script.py]((https://github.com/shintanilab/macro-forecast/blob/main/ch3_script.py))
+### Python Script: [ch3_script.py](https://github.com/shintanilab/macro-forecast/blob/main/ch3_script.py)
 ### data: data_3.xlsx
 
 ## 4. 動学因子モデルの予測
 ### Colab Notebook: [ch4.ipynb](https://github.com/shintanilab/macro-forecast/blob/main/ch4.ipynb)
-### Python Script: [ch4_script.py]((https://github.com/shintanilab/macro-forecast/blob/main/ch4_script.py))
+### Python Script: [ch4_script.py](https://github.com/shintanilab/macro-forecast/blob/main/ch4_script.py)
 ### data: data_4.xlsx
 
 ## 5. 機械学習の予測
 ### Colab Notebook: [ch5.ipynb](https://github.com/shintanilab/macro-forecast/blob/main/ch5.ipynb)
-### Python Script: [ch5_script.py]((https://github.com/shintanilab/macro-forecast/blob/main/ch5_script.py))
+### Python Script: [ch5_script.py](https://github.com/shintanilab/macro-forecast/blob/main/ch5_script.py)
 ### data: data_5.xlsx、EWS
