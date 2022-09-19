@@ -28,4 +28,5 @@
 ### データ: [data_5.xlsx](https://github.com/shintanilab/macro-forecast/blob/main/data_1.xlsx)、[EWS](https://github.com/shintanilab/macro-forecast/tree/main/EWS)
 
 
-### 参考文献: [Maehashi and Shintani (2020)](https://www.sciencedirect.com/science/article/pii/S0889158320300411)
+## 参考文献
+### [Maehashi and Shintani (2020)](https://www.sciencedirect.com/science/article/pii/S0889158320300411)
