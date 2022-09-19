@@ -2,6 +2,7 @@
 ### 朝倉書店ウェブサイトは[こちら](https://www.asakura.co.jp/detail.php?book_code=12901)
 
 ## 1. ARモデルの予測
+
 ### Colab Notebook: [ch1.ipynb](https://github.com/shintanilab/macro-forecast/blob/main/ch1.ipynb)
 ### Python Script: [ch1_script.py](https://github.com/shintanilab/macro-forecast/blob/main/ch1_script.py)
 ### データ: [data_1.xlsx](https://github.com/shintanilab/macro-forecast/blob/main/data_1.xlsx)
